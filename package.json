@@ -29,6 +29,6 @@
     "raml-mocker": "^0.2.7"
   },
   "devDependencies": {
-    "q": "^1.1.2"
+    "q": "^2.0.3"
   }
 }
